@@ -14,8 +14,8 @@ Il y a **4 tables** :
 
 Liste des livres empruntés par Thomas Edison
 
-![Visuel des Tables](SQL_thomas_edison.png)
+![Livres empruntés par Thomas Edison](Images/SQL_thomas_edison.png)
 
 Liste des clients qui ont empruntés des livres dans les 365 derniers jours
 
-![Visuel des Tables](SQL_client_année.png)
+![Liste clients cette année](Images/SQL_client_année.png)
