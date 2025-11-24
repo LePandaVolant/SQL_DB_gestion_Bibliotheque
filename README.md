@@ -1,4 +1,4 @@
-<img width="875" height="462" alt="image" src="https://github.com/user-attachments/assets/8017ee10-1a7a-431a-8aec-057d7c76603a" /># SQL_DB_gestion_Bibliotheque
+# SQL_DB_gestion_Bibliotheque
 Un projet de base de donnée pour une bibliothèque, plus particulièrement la gestion des emprunts de livres
 
 Il y a **4 tables** :
