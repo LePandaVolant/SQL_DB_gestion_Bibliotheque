@@ -1,4 +1,4 @@
-# SQL_DB_gestion_Bibliotheque
+<img width="875" height="462" alt="image" src="https://github.com/user-attachments/assets/8017ee10-1a7a-431a-8aec-057d7c76603a" /># SQL_DB_gestion_Bibliotheque
 Un projet de base de donnée pour une bibliothèque, plus particulièrement la gestion des emprunts de livres
 
 Il y a **4 tables** :
@@ -9,3 +9,13 @@ Il y a **4 tables** :
 
   
 ![Visuel des Tables](Tables_visualisation.png)
+
+2 exemples d'utilisation :
+
+Liste des livres empruntés par Thomas Edison
+
+![Visuel des Tables](SQL_thomas_edison.png)
+
+Liste des clients qui ont empruntés des livres dans les 365 derniers jours
+
+![Visuel des Tables](SQL_client_année.png)
